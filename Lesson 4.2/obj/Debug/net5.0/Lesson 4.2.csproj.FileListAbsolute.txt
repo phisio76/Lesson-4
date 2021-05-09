@@ -1,0 +1,16 @@
+C:\Users\Дима\source\repos\Array\Lesson 4.2\obj\Debug\net5.0\Lesson 4.2.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\Array\Lesson 4.2\obj\Debug\net5.0\Lesson 4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дима\source\repos\Array\Lesson 4.2\obj\Debug\net5.0\Lesson 4.2.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\Array\Lesson 4.2\obj\Debug\net5.0\Lesson 4.2.AssemblyInfo.cs
+C:\Users\Дима\source\repos\Array\Lesson 4.2\obj\Debug\net5.0\Lesson 4.2.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\Array\Lesson 4.2\bin\Debug\net5.0\Lesson 4.2.exe
+C:\Users\Дима\source\repos\Array\Lesson 4.2\bin\Debug\net5.0\Lesson 4.2.deps.json
+C:\Users\Дима\source\repos\Array\Lesson 4.2\bin\Debug\net5.0\Lesson 4.2.runtimeconfig.json
+C:\Users\Дима\source\repos\Array\Lesson 4.2\bin\Debug\net5.0\Lesson 4.2.runtimeconfig.dev.json
+C:\Users\Дима\source\repos\Array\Lesson 4.2\bin\Debug\net5.0\Lesson 4.2.dll
+C:\Users\Дима\source\repos\Array\Lesson 4.2\bin\Debug\net5.0\ref\Lesson 4.2.dll
+C:\Users\Дима\source\repos\Array\Lesson 4.2\bin\Debug\net5.0\Lesson 4.2.pdb
+C:\Users\Дима\source\repos\Array\Lesson 4.2\obj\Debug\net5.0\Lesson 4.2.dll
+C:\Users\Дима\source\repos\Array\Lesson 4.2\obj\Debug\net5.0\ref\Lesson 4.2.dll
+C:\Users\Дима\source\repos\Array\Lesson 4.2\obj\Debug\net5.0\Lesson 4.2.pdb
+C:\Users\Дима\source\repos\Array\Lesson 4.2\obj\Debug\net5.0\Lesson 4.2.genruntimeconfig.cache
